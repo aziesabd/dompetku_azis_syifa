@@ -1,0 +1,11 @@
+D:\TUGAS\Semester 5\Pemograman Visual\Praktikum\dompetku\dompetku\bin\Debug\dompetku.exe.config
+D:\TUGAS\Semester 5\Pemograman Visual\Praktikum\dompetku\dompetku\bin\Debug\dompetku.exe
+D:\TUGAS\Semester 5\Pemograman Visual\Praktikum\dompetku\dompetku\bin\Debug\dompetku.pdb
+D:\TUGAS\Semester 5\Pemograman Visual\Praktikum\dompetku\dompetku\bin\Debug\dompetku.xml
+D:\TUGAS\Semester 5\Pemograman Visual\Praktikum\dompetku\dompetku\obj\Debug\dompetku.vbprojAssemblyReference.cache
+D:\TUGAS\Semester 5\Pemograman Visual\Praktikum\dompetku\dompetku\obj\Debug\dompetku.Form1.resources
+D:\TUGAS\Semester 5\Pemograman Visual\Praktikum\dompetku\dompetku\obj\Debug\dompetku.Resources.resources
+D:\TUGAS\Semester 5\Pemograman Visual\Praktikum\dompetku\dompetku\obj\Debug\dompetku.vbproj.GenerateResource.cache
+D:\TUGAS\Semester 5\Pemograman Visual\Praktikum\dompetku\dompetku\obj\Debug\dompetku.exe
+D:\TUGAS\Semester 5\Pemograman Visual\Praktikum\dompetku\dompetku\obj\Debug\dompetku.xml
+D:\TUGAS\Semester 5\Pemograman Visual\Praktikum\dompetku\dompetku\obj\Debug\dompetku.pdb
